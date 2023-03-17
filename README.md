@@ -1,2 +1,2 @@
 # cAlgorithm
-implement some data-struct and algorithm by c
+implement some simple data structrues and algorithms by c
