@@ -1,2 +1,2 @@
 # cAlgorithm
-implement some simple data structrues and algorithms by c
+简单数据结构与算法的C实现
